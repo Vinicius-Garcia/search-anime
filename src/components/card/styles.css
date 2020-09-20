@@ -1,0 +1,21 @@
+.card{
+  background-color: gold;
+  padding:30px;
+}
+.center{
+  display:         flex;
+        display: -webkit-flex;
+        justify-content: center;
+        align-items: center;
+}
+.img{
+  width: 300px;
+  margin-left: 10px;
+
+}
+.title{
+  text-align: center;
+}
+.subtitle{
+  padding-top: 20px;
+}
